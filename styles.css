@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-family: Verdana;
+
+    color: white;
+    background-color: black;
+}
+
+body>div.background {
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+
+    background-image: url(Images/f47f89f6-fe67-4305-a9e9-c830302328dc.92b284bee9f471f1129904d2d57b51df.webp);
+    /*
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    */
+
+    height: 100%;
+}
+
+header {
+    background-image: linear-gradient( rgba(107, 107, 107, 0.767), blue, rgba(107, 107, 107, 0.767), rgba(0,0,0,0));
+    
+    
+}
+
+main {
+    background-color: rgba(107, 107, 107, 0.767);
+
+    margin: 25vw;
+    padding: 15px;
+}
